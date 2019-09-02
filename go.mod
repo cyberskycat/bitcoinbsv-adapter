@@ -1,4 +1,4 @@
-module git.xxx.org/Coinlink-Adapter/bitcoinsv-adapter
+module github.com/cyberskycat/bitcoinbsv-adapter
 
 go 1.12
 
