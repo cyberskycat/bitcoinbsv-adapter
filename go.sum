@@ -29,14 +29,18 @@ github.com/beorn7/perks v1.0.0/go.mod h1:KWe93zE9D1o94FZ5RNwFwVgaQK1VOXiVxmqh+Ce
 github.com/binance-chain/go-sdk v1.0.8/go.mod h1:ahR+bb8rCbVRuK9ukmNTr/ghj7n4awioQQgLS5xb7wQ=
 github.com/binance-chain/ledger-cosmos-go v0.9.9-binance.1/go.mod h1:FI6WAujuiBpoSavYreux2zTKyrUkngXDlRJczxsDK5M=
 github.com/blocktree/arkecosystem-adapter v1.0.4/go.mod h1:InOEfMymxfiD8sSt4hsASZmGA46J2pBeVzaMN8nWjUU=
+github.com/blocktree/bitcoin-adapter v1.1.0/go.mod h1:PwAIkLmydwl8z5YV/E+E9/x6zm09w8z81xo76SCbIXM=
 github.com/blocktree/bitcoin-adapter v1.2.21 h1:U0qdobRff2aW3lTQIvRy1ilgUZyB/zsrxQNocR/gCvc=
 github.com/blocktree/bitcoin-adapter v1.2.21/go.mod h1:Un9Rrazrj50jOfMTCZWCusSa0OoBhAHI8MhQFy/2l5s=
+github.com/blocktree/bitcoincash-adapter v1.1.0 h1:/LExU9VEVDBwPvPTPype3U7p5BjLpcq48BPIOX777eM=
+github.com/blocktree/bitcoincash-adapter v1.1.0/go.mod h1:Tetg92Bc9pQun1Fqf4SojorkeqGT6lEoJiu2jhlxmy8=
 github.com/blocktree/bitshares-adapter v1.0.5/go.mod h1:tyzkgBUWF65zFQoQSj3l1IRhI/3pkSWFwnG9bnM3XZE=
 github.com/blocktree/ddmchain-adapter v1.0.5/go.mod h1:oqsMVtGaRVm0JIEld4Ge9vblhwjSuv4k73artQE+EO8=
 github.com/blocktree/eosio-adapter v1.0.0/go.mod h1:Ck5C4aIg+z9DbqjAngn6sVemI5GQF/6BPoxzvdE7pa8=
 github.com/blocktree/ethereum-adapter v1.1.10/go.mod h1:jrz6vFh94fb86PjWsdwRAojkjUqznkioz+57liA8TtY=
 github.com/blocktree/futurepia-adapter v1.0.9/go.mod h1:46VvLidqafh6kxLKBCFKeVlbVPmjTp0oOhyg9pGxhXM=
 github.com/blocktree/futurepia-adapter v1.0.12/go.mod h1:46VvLidqafh6kxLKBCFKeVlbVPmjTp0oOhyg9pGxhXM=
+github.com/blocktree/go-owcdrivers v1.0.0/go.mod h1:AzbIxzzRcSszV/XwOiu83QqKuGTuWyCdCrVfGNt2bk8=
 github.com/blocktree/go-owcdrivers v1.0.4/go.mod h1:HS5S8MYW1hdN6hEmwgqu/kWyFPkxvjGN9Le0zAGmFZM=
 github.com/blocktree/go-owcdrivers v1.0.5/go.mod h1:HS5S8MYW1hdN6hEmwgqu/kWyFPkxvjGN9Le0zAGmFZM=
 github.com/blocktree/go-owcdrivers v1.0.12/go.mod h1:TKevypdvkQD4ItBGscwMJqWWMOhDo9vXwnV1wacNs9w=
@@ -48,6 +52,7 @@ github.com/blocktree/go-owcdrivers v1.0.39/go.mod h1:ZhndO+bVH1s39I/ECFg2lHwo6Ou
 github.com/blocktree/go-owcdrivers v1.0.42/go.mod h1:icMC6RUkkOp+Zw9jRZ+x+TCwSosX2v2rT9aePeyn+4E=
 github.com/blocktree/go-owcdrivers v1.1.11 h1:8FP/zUZ/DIYPaxtVaER/jB/iubp30YwFW1GFcO1ex7Q=
 github.com/blocktree/go-owcdrivers v1.1.11/go.mod h1:Ob+XKMlsFIT+c+1vd9bnBbTiMWn78BPFqFf3w4XUHTI=
+github.com/blocktree/go-owcrypt v1.0.0/go.mod h1:5FCinL/4XVEqbmAFTOUgfMJVNJEw6WzVy624qsxzZC8=
 github.com/blocktree/go-owcrypt v1.0.1/go.mod h1:5FCinL/4XVEqbmAFTOUgfMJVNJEw6WzVy624qsxzZC8=
 github.com/blocktree/go-owcrypt v1.0.2/go.mod h1:5FCinL/4XVEqbmAFTOUgfMJVNJEw6WzVy624qsxzZC8=
 github.com/blocktree/go-owcrypt v1.0.3 h1:qfAwJsWYp7WaI26hAwPuFUrMXhD9bWwuGXYWBOLsVes=
@@ -57,6 +62,7 @@ github.com/blocktree/nulsio-adapter v1.0.9/go.mod h1:rZCU7FqIodBjRArb1SJ4u2Ft58Z
 github.com/blocktree/nulsio-adapter v1.1.5/go.mod h1:4GD5l1GpwZzphGkfNkVOtiZLj918GNuQVBX2W0WqK8Y=
 github.com/blocktree/nulsio-adapter v1.1.7/go.mod h1:4GD5l1GpwZzphGkfNkVOtiZLj918GNuQVBX2W0WqK8Y=
 github.com/blocktree/ontology-adapter v1.0.8/go.mod h1:NA7qQB0g/85ty9XGLt+I0YeuV7ErnWhTTXC1MH/jCS8=
+github.com/blocktree/openwallet v1.4.0/go.mod h1:wVvKtOBgi2MIviiGyeX2uedTo53X7HjtMzfps5G3BWg=
 github.com/blocktree/openwallet v1.4.1/go.mod h1:jStJigV8cNTOmvzvWJ4bdjXhiRvtQtSh++uJxSZRcb0=
 github.com/blocktree/openwallet v1.4.3/go.mod h1:jStJigV8cNTOmvzvWJ4bdjXhiRvtQtSh++uJxSZRcb0=
 github.com/blocktree/openwallet v1.4.5/go.mod h1:e5IqJ6OqCM5qEN4TTxeeWbd3l3kCRLPC6fG4/KLiA7I=

@@ -1,4 +1,4 @@
-module github.com/blocktree/bitcoinsv-adapter
+module git.xxx.org/Coinlink-Adapter/bitcoinsv-adapter
 
 go 1.12
 
